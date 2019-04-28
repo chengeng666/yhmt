@@ -1,5 +1,5 @@
 <template>
-  <div>jdjgdfk</div>
+  <div>主导航</div>
 </template>
 <script>
 export default {}
