@@ -1,5 +1,5 @@
 <template>
-  <div>主导航</div>
+  <div>主导航更改</div>
 </template>
 <script>
 export default {}
